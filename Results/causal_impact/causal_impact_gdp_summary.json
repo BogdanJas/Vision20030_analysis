@@ -1,0 +1,9 @@
+{
+  "sector": "gdp",
+  "best_method": "difference_in_differences",
+  "results": {
+    "relative_effect_percent": 19.109610455241103,
+    "p_value": 1.975304617568503e-12,
+    "significant": "True"
+  }
+}

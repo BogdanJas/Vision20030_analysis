@@ -1,0 +1,9 @@
+{
+  "sector": "technology",
+  "best_method": "difference_in_differences",
+  "results": {
+    "relative_effect_percent": 170.67006321442608,
+    "p_value": 1.9635023015314935e-10,
+    "significant": "True"
+  }
+}

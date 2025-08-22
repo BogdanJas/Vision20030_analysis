@@ -1,0 +1,733 @@
+{
+  "summary_statistics": {
+    "tourism": {
+      "forecast_mean": 87.89213462547643,
+      "forecast_std": 1.1790035251849837,
+      "forecast_min": 84.48308981854152,
+      "forecast_max": 89.10457230326523,
+      "total_periods": 56,
+      "model_used": {
+        "0": "ensemble",
+        "1": "ensemble",
+        "2": "ensemble",
+        "3": "ensemble",
+        "4": "ensemble",
+        "5": "ensemble",
+        "6": "ensemble",
+        "7": "ensemble",
+        "8": "ensemble",
+        "9": "ensemble",
+        "10": "ensemble",
+        "11": "ensemble",
+        "12": "ensemble",
+        "13": "ensemble",
+        "14": "ensemble",
+        "15": "ensemble",
+        "16": "ensemble",
+        "17": "ensemble",
+        "18": "ensemble",
+        "19": "ensemble",
+        "20": "ensemble",
+        "21": "ensemble",
+        "22": "ensemble",
+        "23": "ensemble",
+        "24": "ensemble",
+        "25": "ensemble",
+        "26": "ensemble",
+        "27": "ensemble",
+        "28": "ensemble",
+        "29": "ensemble",
+        "30": "ensemble",
+        "31": "ensemble",
+        "32": "ensemble",
+        "33": "ensemble",
+        "34": "ensemble",
+        "35": "ensemble",
+        "36": "ensemble",
+        "37": "ensemble",
+        "38": "ensemble",
+        "39": "ensemble",
+        "40": "ensemble",
+        "41": "ensemble",
+        "42": "ensemble",
+        "43": "ensemble",
+        "44": "ensemble",
+        "45": "ensemble",
+        "46": "ensemble",
+        "47": "ensemble",
+        "48": "ensemble",
+        "49": "ensemble",
+        "50": "ensemble",
+        "51": "ensemble",
+        "52": "ensemble",
+        "53": "ensemble",
+        "54": "ensemble",
+        "55": "ensemble"
+      }
+    },
+    "gdp": {
+      "forecast_mean": 871197.9854108001,
+      "forecast_std": 56330.27164339809,
+      "forecast_min": 772165.2821446825,
+      "forecast_max": 959443.4756031327,
+      "total_periods": 56,
+      "model_used": {
+        "0": "ensemble",
+        "1": "ensemble",
+        "2": "ensemble",
+        "3": "ensemble",
+        "4": "ensemble",
+        "5": "ensemble",
+        "6": "ensemble",
+        "7": "ensemble",
+        "8": "ensemble",
+        "9": "ensemble",
+        "10": "ensemble",
+        "11": "ensemble",
+        "12": "ensemble",
+        "13": "ensemble",
+        "14": "ensemble",
+        "15": "ensemble",
+        "16": "ensemble",
+        "17": "ensemble",
+        "18": "ensemble",
+        "19": "ensemble",
+        "20": "ensemble",
+        "21": "ensemble",
+        "22": "ensemble",
+        "23": "ensemble",
+        "24": "ensemble",
+        "25": "ensemble",
+        "26": "ensemble",
+        "27": "ensemble",
+        "28": "ensemble",
+        "29": "ensemble",
+        "30": "ensemble",
+        "31": "ensemble",
+        "32": "ensemble",
+        "33": "ensemble",
+        "34": "ensemble",
+        "35": "ensemble",
+        "36": "ensemble",
+        "37": "ensemble",
+        "38": "ensemble",
+        "39": "ensemble",
+        "40": "ensemble",
+        "41": "ensemble",
+        "42": "ensemble",
+        "43": "ensemble",
+        "44": "ensemble",
+        "45": "ensemble",
+        "46": "ensemble",
+        "47": "ensemble",
+        "48": "ensemble",
+        "49": "ensemble",
+        "50": "ensemble",
+        "51": "ensemble",
+        "52": "ensemble",
+        "53": "ensemble",
+        "54": "ensemble",
+        "55": "ensemble"
+      }
+    },
+    "technology": {
+      "forecast_mean": 53.250672406688686,
+      "forecast_std": 7.592311475097059,
+      "forecast_min": 40.43246677223275,
+      "forecast_max": 65.68621039295074,
+      "total_periods": 56,
+      "model_used": {
+        "0": "ensemble",
+        "1": "ensemble",
+        "2": "ensemble",
+        "3": "ensemble",
+        "4": "ensemble",
+        "5": "ensemble",
+        "6": "ensemble",
+        "7": "ensemble",
+        "8": "ensemble",
+        "9": "ensemble",
+        "10": "ensemble",
+        "11": "ensemble",
+        "12": "ensemble",
+        "13": "ensemble",
+        "14": "ensemble",
+        "15": "ensemble",
+        "16": "ensemble",
+        "17": "ensemble",
+        "18": "ensemble",
+        "19": "ensemble",
+        "20": "ensemble",
+        "21": "ensemble",
+        "22": "ensemble",
+        "23": "ensemble",
+        "24": "ensemble",
+        "25": "ensemble",
+        "26": "ensemble",
+        "27": "ensemble",
+        "28": "ensemble",
+        "29": "ensemble",
+        "30": "ensemble",
+        "31": "ensemble",
+        "32": "ensemble",
+        "33": "ensemble",
+        "34": "ensemble",
+        "35": "ensemble",
+        "36": "ensemble",
+        "37": "ensemble",
+        "38": "ensemble",
+        "39": "ensemble",
+        "40": "ensemble",
+        "41": "ensemble",
+        "42": "ensemble",
+        "43": "ensemble",
+        "44": "ensemble",
+        "45": "ensemble",
+        "46": "ensemble",
+        "47": "ensemble",
+        "48": "ensemble",
+        "49": "ensemble",
+        "50": "ensemble",
+        "51": "ensemble",
+        "52": "ensemble",
+        "53": "ensemble",
+        "54": "ensemble",
+        "55": "ensemble"
+      }
+    }
+  },
+  "2030_projections": {
+    "tourism": {
+      "average": 87.83155920365866,
+      "min": 87.61586249050036,
+      "max": 88.0117692768385,
+      "ci_lower": 63.30270111552159,
+      "ci_upper": 109.17364360679375
+    },
+    "gdp": {
+      "average": 853610.885641668,
+      "min": 851777.0899355088,
+      "max": 855445.440846557,
+      "ci_lower": -66435.24660399457,
+      "ci_upper": 1773657.0178873306
+    },
+    "technology": {
+      "average": 65.33906389804876,
+      "min": 64.73751385845786,
+      "max": 65.68621039295074,
+      "ci_lower": 35.61303752717609,
+      "ci_upper": 95.06509026892144
+    }
+  },
+  "model_performance": {
+    "tourism": {
+      "best_model": "ets",
+      "validation_metrics": {
+        "RMSE": 42.46848365453438,
+        "MAE": 32.08703247813864,
+        "R2": -0.5824045554043285,
+        "MAPE": 1358.6205784731098,
+        "Directional_Accuracy": 20.833333333333336,
+        "N_Points": 25,
+        "Residual_Normality_P": 0.4008008770144513,
+        "Mean_Absolute_Residual": 32.08703247813864,
+        "Merged_Data": [
+          {
+            "ds": "2017-03-31",
+            "actual": 75.97526113089774,
+            "predicted": 83.45624854524299
+          },
+          {
+            "ds": "2017-06-30",
+            "actual": 75.97526113089774,
+            "predicted": 83.93173412132572
+          },
+          {
+            "ds": "2017-09-30",
+            "actual": 75.97526113089774,
+            "predicted": 83.2369984893405
+          },
+          {
+            "ds": "2017-12-31",
+            "actual": 75.97526113089774,
+            "predicted": 82.50590850256894
+          },
+          {
+            "ds": "2018-03-31",
+            "actual": 82.79139692485259,
+            "predicted": 82.96429363708019
+          },
+          {
+            "ds": "2018-06-30",
+            "actual": 82.79139692485259,
+            "predicted": 83.43977921316292
+          },
+          {
+            "ds": "2018-09-30",
+            "actual": 82.79139692485259,
+            "predicted": 82.7450435811777
+          },
+          {
+            "ds": "2018-12-31",
+            "actual": 82.79139692485259,
+            "predicted": 82.01395359440616
+          },
+          {
+            "ds": "2019-03-31",
+            "actual": 100.0,
+            "predicted": 82.47233872891739
+          },
+          {
+            "ds": "2019-06-30",
+            "actual": 100.0,
+            "predicted": 82.94782430500014
+          },
+          {
+            "ds": "2019-09-30",
+            "actual": 100.0,
+            "predicted": 82.2530886730149
+          },
+          {
+            "ds": "2019-12-31",
+            "actual": 100.0,
+            "predicted": 81.52199868624336
+          },
+          {
+            "ds": "2020-03-31",
+            "actual": 0.0,
+            "predicted": 81.9803838207546
+          },
+          {
+            "ds": "2020-06-30",
+            "actual": 0.0,
+            "predicted": 82.45586939683734
+          },
+          {
+            "ds": "2020-09-30",
+            "actual": 0.0,
+            "predicted": 81.76113376485212
+          },
+          {
+            "ds": "2020-12-31",
+            "actual": 0.0,
+            "predicted": 81.03004377808057
+          },
+          {
+            "ds": "2021-03-31",
+            "actual": 26.899315092016053,
+            "predicted": 81.48842891259181
+          },
+          {
+            "ds": "2021-06-30",
+            "actual": 26.899315092016053,
+            "predicted": 81.96391448867455
+          },
+          {
+            "ds": "2021-09-30",
+            "actual": 26.899315092016053,
+            "predicted": 81.26917885668932
+          },
+          {
+            "ds": "2021-12-31",
+            "actual": 26.899315092016053,
+            "predicted": 80.53808886991777
+          },
+          {
+            "ds": "2022-03-31",
+            "actual": 46.87592911940394,
+            "predicted": 80.99647400442902
+          },
+          {
+            "ds": "2022-06-30",
+            "actual": 46.87592911940394,
+            "predicted": 81.47195958051176
+          },
+          {
+            "ds": "2022-09-30",
+            "actual": 46.87592911940394,
+            "predicted": 80.77722394852653
+          },
+          {
+            "ds": "2022-12-31",
+            "actual": 46.87592911940394,
+            "predicted": 80.04613396175499
+          },
+          {
+            "ds": "2023-03-31",
+            "actual": 60.686234097111466,
+            "predicted": 80.50451909626622
+          }
+        ]
+      },
+      "composite_score": -2.486913371227653,
+      "all_model_scores": {
+        "prophet": -2.807230332577658,
+        "arima": -2.491729265798586,
+        "ets": -2.486913371227653,
+        "linear": -2.79142448838477
+      }
+    },
+    "gdp": {
+      "best_model": "prophet",
+      "validation_metrics": {
+        "RMSE": 28643.112244055166,
+        "MAE": 20562.750656613003,
+        "R2": 0.6453625833471326,
+        "MAPE": 2.549835626531085,
+        "Directional_Accuracy": 96.66666666666667,
+        "N_Points": 31,
+        "Residual_Normality_P": 0.316890727292761,
+        "Mean_Absolute_Residual": 20562.750656613003,
+        "Merged_Data": [
+          {
+            "ds": "2017-03-31",
+            "actual": 769279.0,
+            "predicted": 775007.4881621135
+          },
+          {
+            "ds": "2017-06-30",
+            "actual": 751283.0,
+            "predicted": 765439.4737502427
+          },
+          {
+            "ds": "2017-09-30",
+            "actual": 758703.0,
+            "predicted": 770449.5177629632
+          },
+          {
+            "ds": "2017-12-31",
+            "actual": 797008.0,
+            "predicted": 798796.7023365453
+          },
+          {
+            "ds": "2018-03-31",
+            "actual": 787769.0,
+            "predicted": 789907.3700964554
+          },
+          {
+            "ds": "2018-06-30",
+            "actual": 773178.0,
+            "predicted": 780959.3644610362
+          },
+          {
+            "ds": "2018-09-30",
+            "actual": 782095.0,
+            "predicted": 781876.2940234143
+          },
+          {
+            "ds": "2018-12-31",
+            "actual": 831647.0,
+            "predicted": 812635.5184773837
+          },
+          {
+            "ds": "2019-03-31",
+            "actual": 798376.0,
+            "predicted": 804454.0408431729
+          },
+          {
+            "ds": "2019-06-30",
+            "actual": 785347.0,
+            "predicted": 796503.793706747
+          },
+          {
+            "ds": "2019-09-30",
+            "actual": 789239.0,
+            "predicted": 793307.1098103903
+          },
+          {
+            "ds": "2019-12-31",
+            "actual": 836577.0,
+            "predicted": 825368.3479842246
+          },
+          {
+            "ds": "2020-03-31",
+            "actual": 791689.0,
+            "predicted": 821248.5834813563
+          },
+          {
+            "ds": "2020-06-30",
+            "actual": 729793.0,
+            "predicted": 811364.1120371749
+          },
+          {
+            "ds": "2020-09-30",
+            "actual": 758964.0,
+            "predicted": 820317.4409007699
+          },
+          {
+            "ds": "2020-12-31",
+            "actual": 814141.0,
+            "predicted": 845388.2605079488
+          },
+          {
+            "ds": "2021-03-31",
+            "actual": 795807.0,
+            "predicted": 836485.8965080292
+          },
+          {
+            "ds": "2021-06-30",
+            "actual": 766776.0,
+            "predicted": 826904.6468651574
+          },
+          {
+            "ds": "2021-09-30",
+            "actual": 806923.0,
+            "predicted": 831931.4967170802
+          },
+          {
+            "ds": "2021-12-31",
+            "actual": 882135.0,
+            "predicted": 860288.6449335653
+          },
+          {
+            "ds": "2022-03-31",
+            "actual": 855764.0,
+            "predicted": 851403.4231921196
+          },
+          {
+            "ds": "2022-06-30",
+            "actual": 836562.0,
+            "predicted": 842462.687283937
+          },
+          {
+            "ds": "2022-09-30",
+            "actual": 871449.0,
+            "predicted": 843361.3863969098
+          },
+          {
+            "ds": "2022-12-31",
+            "actual": 931284.0,
+            "predicted": 874118.2491267794
+          },
+          {
+            "ds": "2023-03-31",
+            "actual": 883255.0,
+            "predicted": 865933.0296786225
+          },
+          {
+            "ds": "2023-06-30",
+            "actual": 850367.0,
+            "predicted": 857990.4069676015
+          },
+          {
+            "ds": "2023-09-30",
+            "actual": 843676.0,
+            "predicted": 854856.0893257123
+          },
+          {
+            "ds": "2023-12-31",
+            "actual": 891377.0,
+            "predicted": 886931.0211360592
+          },
+          {
+            "ds": "2024-03-31",
+            "actual": 867813.0,
+            "predicted": 882861.0893934293
+          },
+          {
+            "ds": "2024-06-30",
+            "actual": 847769.0,
+            "predicted": 872883.3911133969
+          },
+          {
+            "ds": "2024-09-30",
+            "actual": 867097.0,
+            "predicted": 881818.223272821
+          }
+        ]
+      },
+      "composite_score": -2.464377216586685,
+      "all_model_scores": {
+        "prophet": -2.464377216586685,
+        "arima": -4.220618091547065,
+        "ets": -15.164941490718338,
+        "linear": -2.899702750356101
+      }
+    },
+    "technology": {
+      "best_model": "prophet",
+      "validation_metrics": {
+        "RMSE": 17.683770244423023,
+        "MAE": 14.15932317235248,
+        "R2": -0.18692916476626942,
+        "MAPE": 20.43018645088735,
+        "Directional_Accuracy": 20.833333333333336,
+        "N_Points": 25,
+        "Residual_Normality_P": 0.956898496860989,
+        "Mean_Absolute_Residual": 14.15932317235248,
+        "Merged_Data": [
+          {
+            "ds": "2017-03-31",
+            "actual": 42.030669665085156,
+            "predicted": 41.05193459122182
+          },
+          {
+            "ds": "2017-06-30",
+            "actual": 42.030669665085156,
+            "predicted": 41.74529153631072
+          },
+          {
+            "ds": "2017-09-30",
+            "actual": 42.030669665085156,
+            "predicted": 41.66249019640279
+          },
+          {
+            "ds": "2017-12-31",
+            "actual": 42.030669665085156,
+            "predicted": 43.02021340101047
+          },
+          {
+            "ds": "2018-03-31",
+            "actual": 50.85916578270739,
+            "predicted": 44.150608924711605
+          },
+          {
+            "ds": "2018-06-30",
+            "actual": 50.85916578270739,
+            "predicted": 45.21647831934834
+          },
+          {
+            "ds": "2018-09-30",
+            "actual": 50.85916578270739,
+            "predicted": 44.97351419281368
+          },
+          {
+            "ds": "2018-12-31",
+            "actual": 50.85916578270739,
+            "predicted": 45.97871455846573
+          },
+          {
+            "ds": "2019-03-31",
+            "actual": 55.92479224043312,
+            "predicted": 47.01815904250358
+          },
+          {
+            "ds": "2019-06-30",
+            "actual": 55.92479224043312,
+            "predicted": 48.11968338968081
+          },
+          {
+            "ds": "2019-09-30",
+            "actual": 55.92479224043312,
+            "predicted": 47.94449610933762
+          },
+          {
+            "ds": "2019-12-31",
+            "actual": 55.92479224043312,
+            "predicted": 48.85692861828021
+          },
+          {
+            "ds": "2020-03-31",
+            "actual": 66.13703650800417,
+            "predicted": 49.57282650048722
+          },
+          {
+            "ds": "2020-06-30",
+            "actual": 66.13703650800417,
+            "predicted": 50.45648973694461
+          },
+          {
+            "ds": "2020-09-30",
+            "actual": 66.13703650800417,
+            "predicted": 50.48774943156351
+          },
+          {
+            "ds": "2020-12-31",
+            "actual": 66.13703650800417,
+            "predicted": 51.75499040107973
+          },
+          {
+            "ds": "2021-03-31",
+            "actual": 74.44861597467892,
+            "predicted": 52.90500263807056
+          },
+          {
+            "ds": "2021-06-30",
+            "actual": 74.44861597467892,
+            "predicted": 53.90049085699845
+          },
+          {
+            "ds": "2021-09-30",
+            "actual": 74.44861597467892,
+            "predicted": 53.83354090541442
+          },
+          {
+            "ds": "2021-12-31",
+            "actual": 74.44861597467892,
+            "predicted": 55.025506355936926
+          },
+          {
+            "ds": "2022-03-31",
+            "actual": 89.99305623211225,
+            "predicted": 56.07481887904735
+          },
+          {
+            "ds": "2022-06-30",
+            "actual": 89.99305623211225,
+            "predicted": 57.07006986344803
+          },
+          {
+            "ds": "2022-09-30",
+            "actual": 89.99305623211225,
+            "predicted": 56.80866922458801
+          },
+          {
+            "ds": "2022-12-31",
+            "actual": 89.99305623211225,
+            "predicted": 57.81618676758395
+          },
+          {
+            "ds": "2023-03-31",
+            "actual": 39.055851770804466,
+            "predicted": 58.93135243693192
+          }
+        ]
+      },
+      "composite_score": -1.343342937340843,
+      "all_model_scores": {
+        "prophet": -1.343342937340843,
+        "arima": -1.9317007608493983,
+        "ets": -1.475665952854129,
+        "linear": -1.6634575012316644
+      }
+    }
+  },
+  "growth_rates": {
+    "tourism": {
+      "total_growth_2017_2030": 3.7156286202268096,
+      "annual_growth_rate": 0.2810297489838298,
+      "start_value_2017": 84.6849798551282,
+      "end_value_2030": 87.83155920365866
+    },
+    "gdp": {
+      "total_growth_2017_2030": 9.270467341398307,
+      "annual_growth_rate": 0.6842997388589733,
+      "start_value_2017": 781190.8436107404,
+      "end_value_2030": 853610.885641668
+    },
+    "technology": {
+      "total_growth_2017_2030": 58.73452939469763,
+      "annual_growth_rate": 3.618252138416822,
+      "start_value_2017": 41.162476839290235,
+      "end_value_2030": 65.33906389804876
+    }
+  },
+  "uncertainty_analysis": {
+    "tourism": {
+      "mean_model_disagreement": 9.143744101062543,
+      "max_model_disagreement": 11.109354400323744,
+      "disagreement_coefficient": 0.10403370153683963
+    },
+    "gdp": {
+      "mean_model_disagreement": 241905.47925945433,
+      "max_model_disagreement": 481927.17674257356,
+      "disagreement_coefficient": 0.27766992498885024
+    },
+    "technology": {
+      "mean_model_disagreement": 7.8062197873483115,
+      "max_model_disagreement": 15.289223297463177,
+      "disagreement_coefficient": 0.1465938256653411
+    }
+  },
+  "scenario": "scenario1"
+}

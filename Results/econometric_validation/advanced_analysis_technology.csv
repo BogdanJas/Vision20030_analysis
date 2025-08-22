@@ -1,0 +1,3 @@
+sector,analysis_type,variable,best_lag,p_value,significant,volatility_pre,volatility_post,change_percent
+technology,granger_causality,Time_Trend,2.0,0.06074601089976186,False,,,
+technology,volatility,,,,False,0.035719292852608,0.0823943156102168,130.6717435594498

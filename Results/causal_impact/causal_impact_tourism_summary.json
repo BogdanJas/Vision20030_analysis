@@ -1,0 +1,9 @@
+{
+  "sector": "tourism",
+  "best_method": "robust_alternative",
+  "results": {
+    "relative_effect_percent": 0,
+    "p_value": 1.0,
+    "significant": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "total_sectors": 3,
+  "successful_analyses": 3,
+  "significant_effects": 2,
+  "method_distribution": {
+    "difference_in_differences": 2,
+    "robust_alternative": 1
+  },
+  "effect_sizes": [
+    19.109610455241103,
+    170.67006321442608
+  ],
+  "p_values": [
+    1.975304617568503e-12,
+    1.9635023015314935e-10
+  ],
+  "confidence_intervals": [],
+  "mean_effect_size": 94.88983683483359,
+  "median_effect_size": 94.88983683483359,
+  "effect_size_std": 75.78022637959249,
+  "mean_p_value": 9.916276738535893e-11,
+  "median_p_value": 9.916276738535893e-11,
+  "success_rate": 1.0,
+  "significance_rate": 0.6666666666666666
+}

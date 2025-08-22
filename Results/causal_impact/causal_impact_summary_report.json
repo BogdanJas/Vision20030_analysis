@@ -1,0 +1,98 @@
+{
+  "overall_findings": {
+    "total_sectors_analyzed": 3,
+    "sectors_with_significant_effects": 3,
+    "significant_sectors_list": [
+      "gdp",
+      "technology",
+      "tourism"
+    ],
+    "proportion_significant": 1.0
+  },
+  "sector_effects": {
+    "gdp": {
+      "method": "Difference_in_Differences",
+      "did_estimate": 131105.86650766587,
+      "relative_effect_percent": 19.109610455241103,
+      "control_group": "Oil_Price",
+      "pre_treatment_mean": 686072.941228941,
+      "post_treatment_mean": 817162.1655459515
+    },
+    "technology": {
+      "method": "Difference_in_Differences",
+      "did_estimate": 51.64277441210096,
+      "relative_effect_percent": 170.67006321442608,
+      "control_group": "Oil_Price",
+      "pre_treatment_mean": 30.25883593141823,
+      "post_treatment_mean": 62.512824779693474
+    },
+    "tourism": {
+      "method": "Robust_Alternative",
+      "average_effect": -11.63051141555188,
+      "relative_effect_percent": -17.25396749652015,
+      "cumulative_effect": -581.525570777594
+    }
+  },
+  "statistical_significance": {
+    "gdp": {
+      "p_value": 1.975304617568503e-12,
+      "significant_at_5pct": "True",
+      "confidence_level": "95%"
+    },
+    "technology": {
+      "p_value": 1.9635023015314935e-10,
+      "significant_at_5pct": "True",
+      "confidence_level": "95%"
+    },
+    "tourism": {
+      "p_value": 0.04915592529727322,
+      "significant_at_5pct": "True",
+      "confidence_level": "95%"
+    }
+  },
+  "covid_adjustments": {},
+  "method_comparison": {
+    "gdp": {
+      "best_method": "difference_in_differences",
+      "available_methods": [
+        "difference_in_differences",
+        "robust_alternative"
+      ],
+      "method_scores": {
+        "difference_in_differences": {
+          "relative_effect": 19.109610455241103,
+          "p_value": 1.975304617568503e-12,
+          "significant": "True"
+        }
+      }
+    },
+    "technology": {
+      "best_method": "difference_in_differences",
+      "available_methods": [
+        "difference_in_differences",
+        "robust_alternative"
+      ],
+      "method_scores": {
+        "difference_in_differences": {
+          "relative_effect": 170.67006321442608,
+          "p_value": 1.9635023015314935e-10,
+          "significant": "True"
+        }
+      }
+    },
+    "tourism": {
+      "best_method": "robust_alternative",
+      "available_methods": [
+        "difference_in_differences",
+        "robust_alternative"
+      ],
+      "method_scores": {
+        "difference_in_differences": {
+          "relative_effect": 3.966876502328214,
+          "p_value": 0.07720089556990095,
+          "significant": "False"
+        }
+      }
+    }
+  }
+}

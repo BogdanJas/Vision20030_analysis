@@ -1,0 +1,59 @@
+{
+  "dataset_info": {
+    "total_observations": 201,
+    "date_range": {
+      "start": "1990-01-01",
+      "end": "2025-04-01"
+    },
+    "variables_created": [
+      "DateTime",
+      "GDP",
+      "Oil_Price",
+      "Technology_Index",
+      "Tourism_Index",
+      "Vision_2030_Implemented",
+      "COVID_Period",
+      "Year",
+      "Quarter",
+      "Time_Trend",
+      "GDP_YoY_Growth",
+      "Technology_Index_YoY_Growth",
+      "Tourism_Index_YoY_Growth",
+      "GDP_MA4",
+      "GDP_MA8",
+      "Technology_Index_MA4",
+      "Technology_Index_MA8",
+      "Tourism_Index_MA4",
+      "Tourism_Index_MA8",
+      "GDP_Volatility",
+      "Technology_Index_Volatility",
+      "Tourism_Index_Volatility",
+      "Tech_GDP_Ratio",
+      "Tourism_GDP_Ratio"
+    ]
+  },
+  "data_quality_summary": {
+    "GDP": {
+      "quality_score": 100.0,
+      "outliers_handled": 0,
+      "missing_values_filled": "84"
+    },
+    "Technology_Index": {
+      "quality_score": 98.11320754716981,
+      "outliers_handled": 1,
+      "missing_values_filled": "96"
+    },
+    "Tourism_Index": {
+      "quality_score": 92.45283018867924,
+      "outliers_handled": 4,
+      "missing_values_filled": "96"
+    }
+  },
+  "preprocessing_steps": [
+    "Composite indices created using PCA",
+    "Outliers handled with winsorization",
+    "Missing data interpolated with cubic method",
+    "Derived variables created (growth rates, moving averages)",
+    "Vision 2030 and COVID-19 indicators added"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overall_findings": {
+    "total_sectors_analyzed": 3,
+    "sectors_with_structural_breaks": 0,
+    "sectors_with_granger_causality": 1,
+    "sectors_with_volatility_changes": 0,
+    "sectors_with_regime_switching": 0,
+    "significant_sectors_list": {
+      "structural_breaks": [],
+      "granger_causality": [
+        "gdp"
+      ],
+      "volatility": [],
+      "regime_switching": []
+    }
+  },
+  "sector_analyses": {
+    "gdp": {
+      "analyses_performed": [
+        "granger_causality",
+        "cointegration",
+        "volatility"
+      ],
+      "findings": {
+        "granger_causality": {
+          "significant_variables": [
+            "Time_Trend"
+          ],
+          "total_variables": 1
+        }
+      }
+    },
+    "technology": {
+      "analyses_performed": [
+        "granger_causality",
+        "cointegration",
+        "volatility"
+      ],
+      "findings": {}
+    },
+    "tourism": {
+      "analyses_performed": [
+        "granger_causality",
+        "cointegration",
+        "volatility"
+      ],
+      "findings": {}
+    }
+  },
+  "method_comparison": {}
+}

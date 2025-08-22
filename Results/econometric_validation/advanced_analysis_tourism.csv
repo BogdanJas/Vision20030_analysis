@@ -1,0 +1,3 @@
+sector,analysis_type,variable,best_lag,p_value,significant,volatility_pre,volatility_post,change_percent
+tourism,granger_causality,Time_Trend,1.0,0.30219155164868144,False,,,
+tourism,volatility,,,,False,0.031630683603202994,,

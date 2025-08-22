@@ -1,0 +1,81 @@
+{
+  "GDP": {
+    "statistics": {
+      "count": 59,
+      "mean": 755170.5762711865,
+      "std": 86991.57904057456,
+      "min": 554682.0,
+      "max": 931284.0,
+      "q25": 699647.5,
+      "q75": 810532.0,
+      "iqr": 110884.5
+    },
+    "outliers_count": 0,
+    "outliers_percentage": 0.0,
+    "outlier_values": [],
+    "normality_test": {
+      "statistic": 0.9770619608008088,
+      "p_value": 0.3277578070279232
+    },
+    "stationarity_test": {
+      "adf_statistic": -1.0550630336040696,
+      "p_value": 0.7326557349972138
+    },
+    "data_quality_score": 100.0
+  },
+  "Technology_Index": {
+    "statistics": {
+      "count": 53,
+      "mean": 46.50689657945237,
+      "std": 21.468024327229042,
+      "min": 20.92504559886817,
+      "max": 100.0,
+      "q25": 30.717037419549932,
+      "q75": 55.92479224043312,
+      "iqr": 25.20775482088319
+    },
+    "outliers_count": 1,
+    "outliers_percentage": 1.8867924528301887,
+    "outlier_values": [
+      100.0
+    ],
+    "normality_test": {
+      "statistic": 0.8922854630792827,
+      "p_value": 0.00017812790599623445
+    },
+    "stationarity_test": {
+      "adf_statistic": 3.5811045454908625,
+      "p_value": 1.0
+    },
+    "data_quality_score": 98.11320754716981
+  },
+  "Tourism_Index": {
+    "statistics": {
+      "count": 53,
+      "mean": 64.38615139669508,
+      "std": 25.85059645865046,
+      "min": 0.0,
+      "max": 100.0,
+      "q25": 51.00793169947845,
+      "q75": 78.98469790394536,
+      "iqr": 27.976766204466912
+    },
+    "outliers_count": 4,
+    "outliers_percentage": 7.547169811320755,
+    "outlier_values": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "normality_test": {
+      "statistic": 0.8473164011222223,
+      "p_value": 7.903721980276506e-06
+    },
+    "stationarity_test": {
+      "adf_statistic": -2.2120515386679735,
+      "p_value": 0.20190055613813657
+    },
+    "data_quality_score": 92.45283018867924
+  }
+}
